@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/comp2156/static/js/main.c56f5b24.js",
-    "index.html": "/comp2156/index.html",
-    "main.c56f5b24.js.map": "/comp2156/static/js/main.c56f5b24.js.map"
+    "main.js": "/COMP2156/static/js/main.c56f5b24.js",
+    "index.html": "/COMP2156/index.html",
+    "main.c56f5b24.js.map": "/COMP2156/static/js/main.c56f5b24.js.map"
   },
   "entrypoints": [
     "static/js/main.c56f5b24.js"
